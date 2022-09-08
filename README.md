@@ -1,7 +1,7 @@
 # K-Means-algorithm
 ## Table of Contents
-* [General info](#general info)
-* [Technologies](#technolgies)
+* [General info](#general-info)
+* [Technologies](#technolgies-used)
 * [Setup](#setup)
 
 ## General Info
